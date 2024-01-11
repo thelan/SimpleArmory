@@ -148,7 +148,7 @@
         <br/>
         <div class="input-group">
           <label for="myCharName" class="input-group-addon input-group-label">Character</label>
-          <input id="myCharName" type="text" class="form-control" bind:this={characterNameInput} bind:value={characterName} on:keydown={keydown} style="z-index:1">
+          <input id="myCharName" type="text" class="form-control" bind:this={characterNameInput} bind:value={characterName} on:keydown={keydown} style="z-index:1" autocorrect="off">
         </div>
       </div>
       <div class="modal-footer">
