@@ -12,9 +12,10 @@
 
     // NOTE: crazy bug where I need have have url set to non null for animation transition to work
     let cats = {
-        'Character':          { w:0, txt:'', url:'INIT', seg:'character', }, 
+        'Characters':         { w:0, txt:'', url:'INIT', seg:'character', }, 
         'Quests':             { w:0, txt:'', url:'INIT', seg:'quests' }, 
         'Exploration':        { w:0, txt:'', url:'INIT', seg:'exploration' }, 
+        'Delves':             { w:0, txt:'', url:'INIT', seg:'delves'},
         'Player vs. Player':  { w:0, txt:'', url:'INIT', seg:'pvp' }, 
         'Dungeons & Raids':   { w:0, txt:'', url:'INIT', seg:'dungeons' }, 
         'Professions':        { w:0, txt:'', url:'INIT', seg:'professions' }, 
@@ -22,7 +23,7 @@
         'World Events':       { w:0, txt:'', url:'INIT', seg:'events' }, 
         'Pet Battles':        { w:0, txt:'', url:'INIT', seg:'pets' }, 
         'Collections':        { w:0, txt:'', url:'INIT', seg:'collections' }, 
-        'Expansion Features': { w:0, txt:'', url:'INIT', seg:'expansions' }, 
+        'Expansion Features': { w:0, txt:'', url:'INIT', seg:'expansions' },
         'Legacy':             { w:0, txt:'', url:'INIT', seg:'legacy' }, 
         'Feats of Strength':  { w:0, txt:'', url:'INIT', seg:'feats' }, 
     };

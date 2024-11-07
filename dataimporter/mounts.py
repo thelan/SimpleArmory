@@ -28,9 +28,6 @@ IGNORE_MOUNT_ID = [
     333,   # Magic Rooster https://www.wowhead.com/mount/333
     334,   # Magic Rooster https://www.wowhead.com/mount/334
     335,   # Magic Rooster https://www.wowhead.com/mount/335
-    462,   # White Riding Yak https://www.wowhead.com/mount/462
-    484,   # Black Riding Yak https://www.wowhead.com/mount/484
-    485,   # Brown Riding Yak https://www.wowhead.com/mount/485
     776,   # Swift Spectral Rylak https://www.wowhead.com/mount/776
     934,   # Swift Spectral Hippogryph https://www.wowhead.com/mount/934
     935,   # Blue Qiraji War Tank https://www.wowhead.com/mount/935
@@ -47,6 +44,10 @@ IGNORE_MOUNT_ID = [
     1788,  # Azeroth Dragonriding Cliffside Wylderdrake: https://www.wowhead.com/mount/1788
     1789,  # Azeroth Dragonriding Winding Slitherdrake: https://www.wowhead.com/mount/1789
     1796,  # Temp: https://www.wowhead.com/mount/1796
+    1953,  # Grotto Netherwing Drake: https://www.wowhead.com/mount/1953 : dupe of 1744
+    1954,  # Flourishing Whimsydrake: https://www.wowhead.com/mount/1954 : dupe of 1830
+    2115,  # Dracthyr Racial
+    1715,  # Placeholder Mecha-Done Mount - Never Added
 ]
 
 MOUNT_SOURCE_ENUM = {
@@ -153,6 +154,14 @@ class MountFixer(WowToolsFixer):
         for cat in self.mounts:
             for subcat in cat['subcats']:
                 for item in subcat['items']:
+                    
+                    # NOTE: If we're upgraded to a new version of the database and then try to update back
+                    # you will have mounts that are not found, so print them out so I can trim them out
+                    # and get to a good base state. 
+                    #if int(item['ID']) not in self.dbc_mount:
+                    #    print("DEBUG: MISSING MOUNT: " + str(item['ID']))
+                    #    continue
+
                     fixed_mount = self.get_mount(int(item['ID']))
                     item['ID'] = fixed_mount['ID']
                     item['name'] = fixed_mount['name']

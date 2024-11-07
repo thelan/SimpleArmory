@@ -114,7 +114,6 @@
             "icon": "inv_muskox_white",
             "itemId": 191946,
             "name": "Mister Muskoxeles",
-            "notObtainable": true,
             "spellid": 371675
           }
         ],
@@ -235,6 +234,730 @@
           }
         ],
         "name": "Achievement"
+      }
+    ]
+  },
+  {
+    "name": "Limited Time",
+    "subcats": [
+      {
+        "items": [
+        ],
+        "name": "Trading Post"
+      },
+      {
+        "id": "0e1fb9ca",
+        "items": [
+          {
+            "ID": 4682,
+            "creatureId": 232502,
+            "icon": "6075526",
+            "itemId": 231294,
+            "name": "Reven",
+            "spellid": 468186
+          }
+        ],
+        "name": "Charity Bundle"
+      },
+      {
+        "id": "a969d4a1",
+        "items": [
+          {
+            "ID": 4629,
+            "creatureId": 198987,
+            "icon": "inv_babymurlo3frost",
+            "itemId": 229366,
+            "name": "Brrrgl",
+            "spellid": 464798
+          }
+        ],
+        "name": "Blizzard Gear Store"
+      },
+      {
+        "items": [
+          {
+            "ID": 665,
+            "creatureId": 54745,
+            "icon": "inv_scarab_clay",
+            "itemId": 72153,
+            "name": "Sand Scarab",
+            "spellid": 102353
+          }
+        ],
+        "name": "Twitch Drops"
+      },
+      {
+        "items": [
+          {
+            "ID": 4616,
+            "creatureId": 229860,
+            "icon": "inv_brokerworm_pink",
+            "itemId": 228765,
+            "name": "Gummi",
+            "spellid": 463148
+          }
+        ],
+        "name": "Trolli Promotion"
+      },
+      {
+        "items": [
+          {
+            "ID": 4595,
+            "creatureId": 225354,
+            "icon": "inv_pitlordpet_fire",
+            "itemId": 224576,
+            "name": "Lil' Flameo",
+            "spellid": 453266
+          }
+        ],
+        "name": "SteelSeries Promotion"
+      },
+      {
+        "items": [
+          {
+            "ID": 202,
+            "creatureId": 32841,
+            "icon": "inv_pet_babyblizzardbear",
+            "itemId": 44819,
+            "name": "Baby Blizzard Bear",
+            "spellid": 61855
+          },
+          {
+            "ID": 243,
+            "creatureId": 36607,
+            "icon": "inv_misc_head_dragon_black",
+            "itemId": 49362,
+            "name": "Onyxian Whelpling",
+            "spellid": 69002
+          },
+          {
+            "ID": 1451,
+            "creatureId": 84915,
+            "icon": "inv_moltencorgi",
+            "itemId": 115301,
+            "name": "Molten Corgi",
+            "spellid": 169695
+          },
+          {
+            "ID": 1544,
+            "creatureId": 87669,
+            "icon": "spell_fire_ragnaros_supernova",
+            "itemId": 118574,
+            "name": "Hatespark the Tiny",
+            "spellid": 170268
+          },
+          {
+            "ID": 2621,
+            "creatureId": 151779,
+            "icon": "2615850",
+            "itemId": 172016,
+            "name": "Lil' Nefarian",
+            "spellid": 294206
+          },
+          {
+            "ID": 4678,
+            "creatureId": 231840,
+            "icon": "inv_doomguardpet_black",
+            "itemId": 228781,
+            "name": "Lil'Doomy",
+            "spellid": 466575
+          }
+        ],
+        "name": "20th Anniversary Event"
+      }
+    ]
+  },
+  {
+    "name": "The War Within",
+    "subcats": [
+      {
+        "items": [
+          {
+            "ID": 4517,
+            "creatureId": 222711,
+            "icon": "inv_candlepet",
+            "itemId": 221821,
+            "name": "Waxwick",
+            "spellid": 446734
+          },
+          {
+            "ID": 4581,
+            "creatureId": 223859,
+            "icon": "inv_nerubianbeetlepet_purple",
+            "itemId": 223802,
+            "name": "Ruby-Eyed Stagshell",
+            "spellid": 449807
+          },
+          {
+            "ID": 4500,
+            "creatureId": 222583,
+            "icon": "inv_caveborercritter_forest",
+            "itemId": 225934,
+            "name": "Lil' Bonechewer",
+            "spellid": 446493
+          }
+        ],
+        "name": "Achievement"
+      },
+      {
+        "id": "2014d563",
+        "items": [
+          {
+            "ID": 4462,
+            "creatureId": 222203,
+            "icon": "inv_babyarathilynx_gold",
+            "itemId": 220782,
+            "name": "Thunder",
+            "spellid": 445822
+          },
+          {
+            "ID": 4520,
+            "creatureId": 222717,
+            "icon": "inv_seaslugpink",
+            "itemId": 222964,
+            "name": "Fathom Incher",
+            "spellid": 446755
+          },
+          {
+            "ID": 4542,
+            "creatureId": 223138,
+            "icon": "inv_seaeel_dark",
+            "itemId": 222980,
+            "name": "Slim",
+            "spellid": 447900
+          },
+          {
+            "ID": 4570,
+            "creatureId": 223351,
+            "icon": "inv_firebeemount_black",
+            "itemId": 223625,
+            "name": "Cinderwold Sizzlestinger",
+            "spellid": 449511
+          },
+          {
+            "ID": 4582,
+            "creatureId": 223861,
+            "icon": "inv_nerubianbeetlepet_blue",
+            "itemId": 225935,
+            "name": "Rak-Ush Battleshell",
+            "spellid": 449808
+          },
+          {
+            "ID": 4465,
+            "creatureId": 222201,
+            "icon": "inv_babyarathilynx_white",
+            "itemId": 221849,
+            "name": "Vanilla",
+            "spellid": 445826
+          }
+        ],
+        "name": "Quest"
+      },
+      {
+        "items": [
+          {
+            "ID": 4467,
+            "creatureId": 222298,
+            "icon": "inv_babyfireflypet_yellow",
+            "itemId": 220771,
+            "name": "Hallowed Glowfly",
+            "spellid": 446004
+          },
+          {
+            "ID": 4470,
+            "creatureId": 222319,
+            "icon": "inv_babyoctopus_ghuun",
+            "itemId": 224439,
+            "name": "Oop'lajax",
+            "spellid": 446027
+          },
+          {
+            "ID": 4473,
+            "creatureId": 222339,
+            "icon": "inv_babycryptfiend_bluegray",
+            "itemId": 222966,
+            "name": "Spinner",
+            "spellid": 446046
+          },
+          {
+            "ID": 4513,
+            "creatureId": 222606,
+            "icon": "inv_flyingnerubian2_tan",
+            "itemId": 221760,
+            "name": "Pillarnest Bonedrinker",
+            "spellid": 446514
+          },
+          {
+            "ID": 4527,
+            "creatureId": 222782,
+            "icon": "inv_collections_armor_flowerbracelet_a_01",
+            "itemId": 224450,
+            "name": "Lil' Moss Rosy",
+            "spellid": 446798
+          },
+          {
+            "ID": 4534,
+            "creatureId": 222880,
+            "icon": "inv_fungallasher_purple",
+            "itemId": 221546,
+            "name": "Nightfarm Growthling",
+            "spellid": 447009
+          },
+          {
+            "ID": 4536,
+            "creatureId": 222879,
+            "icon": "inv_fungallasher_magenta",
+            "itemId": 221548,
+            "name": "Blightbud",
+            "spellid": 447012
+          },
+          {
+            "ID": 4599,
+            "creatureId": 226125,
+            "icon": "inv_maldraxxusslime_purple",
+            "itemId": 225544,
+            "name": "Mind Slurp",
+            "spellid": 455184
+          },
+          {
+            "ID": 3362,
+            "creatureId": 192365,
+            "icon": "inv_crab2_sapphire",
+            "itemId": 224579,
+            "name": "Sapphire Crab",
+            "spellid": 377407
+          },
+          {
+            "ID": 4594,
+            "creatureId": 225238,
+            "icon": "inv_babyturtle2",
+            "itemId": 224549,
+            "name": "Dalaran Sewer Turtle",
+            "spellid": 453076
+          },
+          {
+            "ID": 4596,
+            "creatureId": 225537,
+            "icon": "ability_shaman_freedomwolf",
+            "itemId": 224766,
+            "name": "Faithful Dog",
+            "spellid": 453741
+          },
+          {
+            "ID": 4472,
+            "creatureId": 222326,
+            "icon": "inv_frog2_tropicalblue",
+            "itemId": 221819,
+            "name": "Shadowbog Hopper",
+            "spellid": 446031
+          }
+        ],
+        "name": "Treasure"
+      },
+      {
+        "items": [
+          {
+            "ID": 4463,
+            "creatureId": 222200,
+            "icon": "inv_babyarathilynx_red",
+            "itemId": 221848,
+            "name": "Tiberius",
+            "spellid": 445823
+          },
+          {
+            "ID": 4464,
+            "creatureId": 222202,
+            "icon": "inv_babyarathilynx_black",
+            "itemId": 221850,
+            "name": "Bean",
+            "spellid": 445824
+          },
+          {
+            "ID": 4476,
+            "creatureId": 222341,
+            "icon": "inv_babycryptfiend_tan",
+            "itemId": 222968,
+            "name": "Itchbite",
+            "spellid": 446049
+          },
+          {
+            "ID": 4491,
+            "creatureId": 222575,
+            "icon": "inv_spiderpet_blue",
+            "itemId": 222972,
+            "name": "Jump Jump",
+            "spellid": 446438
+          },
+          {
+            "ID": 4492,
+            "creatureId": 222576,
+            "icon": "inv_spiderpet_yellow",
+            "itemId": 222973,
+            "name": "Fringe",
+            "spellid": 446440
+          },
+          {
+            "ID": 4530,
+            "creatureId": 222779,
+            "icon": "inv_collections_armor_flowerbracelet_a_01",
+            "itemId": 222965,
+            "name": "Loamy",
+            "spellid": 446801
+          },
+          {
+            "ID": 4576,
+            "creatureId": 223717,
+            "icon": "inv_babymolepet_green",
+            "itemId": 223623,
+            "name": "Guacamole",
+            "spellid": 449477
+          },
+          {
+            "ID": 4455,
+            "creatureId": 222046,
+            "icon": "inv_achievement_raidnerubian_swarmmother",
+            "itemId": 221486,
+            "name": "Rak-Ush Threadling",
+            "spellid": 446820
+          }
+        ],
+        "name": "Renown"
+      },
+      {
+        "items": [
+          {
+            "ID": 4543,
+            "creatureId": 223135,
+            "icon": "spell_holy_prayerofshadowprotection",
+            "itemId": 222974,
+            "name": "Sir Shady Mrrgglton Junior",
+            "spellid": 447902
+          },
+          {
+            "ID": 4489,
+            "creatureId": 222532,
+            "icon": "inv_spiderpet_black",
+            "itemId": 222971,
+            "name": "Bouncer",
+            "spellid": 446434
+          },
+          {
+            "ID": 4496,
+            "creatureId": 222078,
+            "icon": "inv_blindcaveskipper_purple",
+            "itemId": 221496,
+            "name": "Wriggle",
+            "spellid": 446464
+          },
+          {
+            "ID": 4506,
+            "creatureId": 222590,
+            "icon": "inv_purple_sporecreature2",
+            "itemId": 225337,
+            "name": "Violet Sporbit",
+            "spellid": 446498
+          },
+          {
+            "ID": 4537,
+            "creatureId": 222883,
+            "icon": "inv_misc_head_kobold_01",
+            "itemId": 221820,
+            "name": "Chester",
+            "spellid": 447016
+          },
+          {
+            "ID": 4575,
+            "creatureId": 223718,
+            "icon": "inv_babymolepet_blue",
+            "itemId": 223624,
+            "name": "Sneef",
+            "spellid": 449475
+          }
+        ],
+        "name": "Delves"
+      },
+      {
+        "items": [
+          {
+            "ID": 4597,
+            "creatureId": 225632,
+            "icon": "inv_babymolepet_light",
+            "itemId": 224760,
+            "name": "Wobbles",
+            "spellid": 453913
+          },
+          {
+            "ID": 4598,
+            "creatureId": 225554,
+            "icon": "inv_misc_head_kobold_01",
+            "itemId": 224646,
+            "name": "Coppers",
+            "spellid": 453923
+          }
+        ],
+        "name": "Vendor"
+      },
+      {
+        "items": [
+          {
+            "ID": 4495,
+            "creatureId": 222079,
+            "icon": "inv_blindcaveskipper_blue",
+            "itemId": 221494,
+            "name": "Skippy",
+            "spellid": 446463
+          },
+          {
+            "ID": 4511,
+            "creatureId": 222607,
+            "icon": "inv_flyingnerubian2_green",
+            "itemId": 221761,
+            "name": "Venomwing",
+            "spellid": 446512
+          },
+          {
+            "ID": 4524,
+            "creatureId": 222764,
+            "icon": "inv_frog2_red",
+            "itemId": 221811,
+            "name": "Starkstripe Hopper",
+            "spellid": 446791
+          },
+          {
+            "ID": 4546,
+            "creatureId": 223088,
+            "icon": "inv_protoramearthen_sand",
+            "itemId": 222978,
+            "name": "Sandstone Ramolith",
+            "spellid": 447934
+          },
+          {
+            "ID": 4586,
+            "creatureId": 224090,
+            "icon": "inv_leafbug_brown",
+            "itemId": 224101,
+            "name": "Brown Leafbug",
+            "spellid": 451193
+          }
+        ],
+        "name": "Pet Charm"
+      },
+      {
+        "id": "25af55a0",
+        "items": [
+          {
+            "ID": 4469,
+            "creatureId": 222318,
+            "icon": "inv_bee_default",
+            "itemId": 223155,
+            "name": "Bop",
+            "spellid": 446024
+          }
+        ],
+        "name": "Dungeon Drop"
+      },
+      {
+        "items": [
+          {
+            "ID": 4450,
+            "creatureId": 220420,
+            "icon": "inv_misc_head_gnoll_01",
+            "itemId": 218086,
+            "name": "Remembered Riverpaw",
+            "notObtainable": true,
+            "spellid": 441643
+          },
+          {
+            "ID": 4452,
+            "creatureId": 220680,
+            "icon": "inv_misc_head_dragon_black",
+            "itemId": 218246,
+            "name": "Remembered Spawn",
+            "notObtainable": true,
+            "spellid": 442337
+          },
+          {
+            "ID": 4451,
+            "creatureId": 220675,
+            "icon": "ui_darkshore_warfront_horde_abomination",
+            "itemId": 218245,
+            "name": "Remembered Construct",
+            "notObtainable": true,
+            "spellid": 442327
+          }
+        ],
+        "name": "Pre-Patch Event"
+      },
+      {
+        "id": "fad5d824",
+        "items": [
+          {
+            "ID": 4458,
+            "creatureId": 222069,
+            "icon": "inv_achievement_raidnerubian_swarmmother",
+            "itemId": 221195,
+            "name": "Illskitter",
+            "notObtainable": true,
+            "notReleased": true,
+            "spellid": 445488
+          },
+          {
+            "ID": 4502,
+            "creatureId": 222585,
+            "icon": "inv_caveborercritter_blue",
+            "name": "Kaheti Bull Worm",
+            "notObtainable": true,
+            "notReleased": true,
+            "spellid": 446491
+          },
+          {
+            "ID": 4478,
+            "creatureId": 222348,
+            "icon": "inv_maldraxxusslime_green",
+            "name": "Caustic Oozeling",
+            "notObtainable": true,
+            "notReleased": true,
+            "spellid": 446055
+          },
+          {
+            "ID": 4459,
+            "creatureId": 222081,
+            "icon": "inv_blindcaveskipper_green",
+            "itemId": 221492,
+            "name": "Moss Skipper",
+            "notObtainable": true,
+            "notReleased": true,
+            "spellid": 445493
+          },
+          {
+            "ID": 4466,
+            "creatureId": 222204,
+            "icon": "inv_babyarathilynx_brown",
+            "itemId": 221851,
+            "name": "Argos",
+            "notObtainable": true,
+            "notReleased": true,
+            "spellid": 445828
+          },
+          {
+            "ID": 4474,
+            "creatureId": 222340,
+            "icon": "inv_babycryptfiend_black",
+            "itemId": 222969,
+            "name": "Anub'Rekyute",
+            "notObtainable": true,
+            "notReleased": true,
+            "spellid": 446047
+          },
+          {
+            "ID": 4475,
+            "creatureId": 222342,
+            "icon": "inv_babycryptfiend_green",
+            "itemId": 222967,
+            "name": "Webbers",
+            "notObtainable": true,
+            "notReleased": true,
+            "spellid": 446048
+          },
+          {
+            "ID": 4484,
+            "creatureId": 222420,
+            "icon": "inv_bloodticklarvaedarkred",
+            "itemId": 221762,
+            "name": "Frenzied Bloodtick",
+            "notObtainable": true,
+            "notReleased": true,
+            "spellid": 446119
+          },
+          {
+            "ID": 4490,
+            "creatureId": 222574,
+            "icon": "inv_spiderpet_brown",
+            "itemId": 222970,
+            "name": "Fuzzy",
+            "notObtainable": true,
+            "notReleased": true,
+            "spellid": 446435
+          },
+          {
+            "ID": 4493,
+            "creatureId": 222080,
+            "icon": "inv_blindcaveskipper_red",
+            "itemId": 221493,
+            "name": "Redthroat Skipling",
+            "notObtainable": true,
+            "notReleased": true,
+            "spellid": 446452
+          },
+          {
+            "ID": 4497,
+            "creatureId": 222077,
+            "icon": "inv_blindcaveskipper_yellow",
+            "itemId": 221495,
+            "name": "Waddles",
+            "notObtainable": true,
+            "notReleased": true,
+            "spellid": 446465
+          },
+          {
+            "ID": 4512,
+            "creatureId": 222609,
+            "icon": "inv_flyingnerubian2_black",
+            "itemId": 221759,
+            "name": "Sceaduthax",
+            "notObtainable": true,
+            "notReleased": true,
+            "spellid": 446513
+          },
+          {
+            "ID": 4519,
+            "creatureId": 222714,
+            "icon": "inv_snailmount_blue",
+            "itemId": 221764,
+            "name": "Burntram",
+            "notObtainable": true,
+            "notReleased": true,
+            "spellid": 446750
+          },
+          {
+            "ID": 4528,
+            "creatureId": 222777,
+            "icon": "inv_collections_armor_flowerbracelet_a_01",
+            "name": "Cobalt Mosswool",
+            "notObtainable": true,
+            "notReleased": true,
+            "spellid": 446799
+          },
+          {
+            "ID": 4545,
+            "creatureId": 223087,
+            "icon": "inv_protoramearthen",
+            "itemId": 222979,
+            "name": "Clay Stonecharger",
+            "notObtainable": true,
+            "notReleased": true,
+            "spellid": 447933
+          },
+          {
+            "ID": 4583,
+            "creatureId": 223863,
+            "icon": "inv_nerubianbeetlepet_green",
+            "name": "Green Stagshell",
+            "notObtainable": true,
+            "notReleased": true,
+            "spellid": 449809
+          },
+          {
+            "ID": 4584,
+            "creatureId": 223862,
+            "icon": "inv_nerubianbeetlepet_tan",
+            "name": "Tan Stagshell",
+            "notObtainable": true,
+            "notReleased": true,
+            "spellid": 449810
+          }
+        ],
+        "name": "Unknown"
       }
     ]
   },
@@ -1403,6 +2126,28 @@
         "name": "Pre-launch Event"
       },
       {
+        "id": "ccda057e",
+        "items": [
+          {
+            "ID": 4411,
+            "creatureId": 216930,
+            "icon": "inv_squirrelflying_silver",
+            "itemId": 213133,
+            "name": "Reese",
+            "spellid": 433791
+          },
+          {
+            "ID": 4412,
+            "creatureId": 216933,
+            "icon": "inv_riverotterlargemount01_blue",
+            "itemId": 213134,
+            "name": "Hap'he",
+            "spellid": 433802
+          }
+        ],
+        "name": "Archives"
+      },
+      {
         "id": "332ea2f0",
         "items": [
           {
@@ -1411,6 +2156,8 @@
             "icon": "inv_babyhornswog_blue",
             "itemId": 205004,
             "name": "Azure Swoglet",
+            "notObtainable": true,
+            "notReleased": true,
             "spellid": 407926
           },
           {
@@ -1419,6 +2166,8 @@
             "icon": "inv_babyhornswog_green",
             "itemId": 205008,
             "name": "Emerald Swoglet",
+            "notObtainable": true,
+            "notReleased": true,
             "spellid": 407930
           },
           {
@@ -1427,6 +2176,8 @@
             "icon": "inv_babyhornswog_yellow",
             "itemId": 205011,
             "name": "Bronze Swoglet",
+            "notObtainable": true,
+            "notReleased": true,
             "spellid": 407935
           },
           {
@@ -1435,6 +2186,8 @@
             "icon": "inv_caveswallow_green",
             "itemId": 205013,
             "name": "Lettuce",
+            "notObtainable": true,
+            "notReleased": true,
             "spellid": 407946
           },
           {
@@ -1443,6 +2196,8 @@
             "icon": "inv_corehoundsmall_orange",
             "itemId": 205017,
             "name": "Byrn",
+            "notObtainable": true,
+            "notReleased": true,
             "spellid": 407955
           },
           {
@@ -1451,6 +2206,8 @@
             "icon": "inv_primaldragonflymount_green",
             "itemId": 205018,
             "name": "Jade Skitterbug",
+            "notObtainable": true,
+            "notReleased": true,
             "spellid": 408023
           },
           {
@@ -1459,6 +2216,8 @@
             "icon": "inv_makruralava_green",
             "itemId": 205023,
             "name": "Savage Lobstrok",
+            "notObtainable": true,
+            "notReleased": true,
             "spellid": 408032
           },
           {
@@ -1467,6 +2226,8 @@
             "icon": "inv_dogprimalbaby_red",
             "itemId": 205053,
             "name": "Rusty",
+            "notObtainable": true,
+            "notReleased": true,
             "spellid": 408106
           },
           {
@@ -1475,6 +2236,8 @@
             "icon": "inv_dogprimalbaby_yellow",
             "itemId": 205054,
             "name": "Amador",
+            "notObtainable": true,
+            "notReleased": true,
             "spellid": 408108
           },
           {
@@ -1483,6 +2246,8 @@
             "icon": "inv_mouserock_purple",
             "itemId": 205116,
             "name": "Jerrie",
+            "notObtainable": true,
+            "notReleased": true,
             "spellid": 408130
           },
           {
@@ -1491,15 +2256,9 @@
             "icon": "inv_snailrockmount_pink",
             "itemId": 205122,
             "name": "Roseshell",
+            "notObtainable": true,
+            "notReleased": true,
             "spellid": 408163
-          },
-          {
-            "ID": 3542,
-            "creatureId": 204340,
-            "icon": "inv_sporebatrock_stoneblack",
-            "itemId": 205148,
-            "name": "Dread Shalewing",
-            "spellid": 408252
           },
           {
             "ID": 3543,
@@ -1507,6 +2266,8 @@
             "icon": "inv_sporebatrock_stonered",
             "itemId": 205149,
             "name": "Ravenous Shalewing",
+            "notObtainable": true,
+            "notReleased": true,
             "spellid": 408253
           },
           {
@@ -1515,6 +2276,8 @@
             "icon": "inv_sporebatrock_stoneorange",
             "itemId": 205150,
             "name": "Shalewing Devourer",
+            "notObtainable": true,
+            "notReleased": true,
             "spellid": 408254
           },
           {
@@ -1522,16 +2285,10 @@
             "creatureId": 204354,
             "icon": "inv_viperrock2_green",
             "itemId": 205153,
-            "name": "Mikah",
+            "name": "Jade Cragviper",
+            "notObtainable": true,
+            "notReleased": true,
             "spellid": 408265
-          },
-          {
-            "ID": 3549,
-            "creatureId": 204360,
-            "icon": "inv_mothunderlight_pink",
-            "itemId": 205156,
-            "name": "Heartseeker Moth",
-            "spellid": 408311
           },
           {
             "ID": 3550,
@@ -1539,6 +2296,8 @@
             "icon": "inv_mothunderlight_red",
             "itemId": 205157,
             "name": "Undermoth",
+            "notObtainable": true,
+            "notReleased": true,
             "spellid": 408314
           },
           {
@@ -1547,6 +2306,8 @@
             "icon": "inv_wyvernpetblackdragon_blue",
             "itemId": 205164,
             "name": "Senega",
+            "notObtainable": true,
+            "notReleased": true,
             "spellid": 408328
           },
           {
@@ -1555,15 +2316,19 @@
             "icon": "inv_wyvernpetblackdragon_yellow",
             "itemId": 205166,
             "name": "Kromos",
+            "notObtainable": true,
+            "notReleased": true,
             "spellid": 408332
           },
           {
-            "ID": 3582,
-            "creatureId": 205795,
-            "icon": "4777763",
-            "itemId": 206174,
-            "name": "Blub",
-            "spellid": 412389
+            "ID": 4264,
+            "creatureId": 209163,
+            "icon": "inv_wooddragonpet",
+            "itemId": 208446,
+            "name": "Fyrn",
+            "notObtainable": true,
+            "notReleased": true,
+            "spellid": 419467
           }
         ],
         "name": "Unknown"
@@ -1837,7 +2602,7 @@
             "creatureId": 179008,
             "icon": "tradeskill_abominationstitching_abominations_lesser",
             "itemId": 186188,
-            "name": "Lil'Abom",
+            "name": "Lil' Abom",
             "spellid": 353206
           },
           {
@@ -3049,6 +3814,7 @@
             "icon": "inv_misc_head_tiger_01",
             "name": "Trub'ul",
             "notObtainable": true,
+            "notReleased": true,
             "spellid": 360567
           }
         ],
@@ -4668,6 +5434,7 @@
             "itemId": 166358,
             "name": "Proper Parrot",
             "notObtainable": true,
+            "notReleased": true,
             "spellid": 288054
           }
         ],
@@ -7673,6 +8440,14 @@
             "itemId": 116155,
             "name": "Lovebird Hatchling",
             "spellid": 132762
+          },
+          {
+            "ID": 3549,
+            "creatureId": 204360,
+            "icon": "inv_mothunderlight_pink",
+            "itemId": 205156,
+            "name": "Heartseeker Moth",
+            "spellid": 408311
           }
         ],
         "name": "Love is in the Air"
@@ -7702,6 +8477,14 @@
             "itemId": 141532,
             "name": "Noblegarden Bunny",
             "spellid": 227113
+          },
+          {
+            "ID": 4409,
+            "creatureId": 215565,
+            "icon": "inv_duckbaby_pink",
+            "itemId": 212786,
+            "name": "Lovely Duckling",
+            "spellid": 433085
           }
         ],
         "name": "Noblegarden"
@@ -8056,14 +8839,6 @@
             "itemId": 178533,
             "name": "Jingles",
             "spellid": 294211
-          },
-          {
-            "ID": 4311,
-            "creatureId": 213111,
-            "icon": "inv_helm_cloth_holiday_christmas_a_03",
-            "itemId": 210870,
-            "name": "Mitzy",
-            "spellid": 427289
           }
         ],
         "name": "Feast of Winter Veil"
@@ -8077,6 +8852,7 @@
             "icon": "inv_misc_head_clockworkgnome_01",
             "itemId": 93025,
             "name": "Clock'em",
+            "notObtainable": true,
             "spellid": 135156
           },
           {
@@ -8085,6 +8861,7 @@
             "icon": "achievement_boss_highmaul_aggronguardian",
             "itemId": 144394,
             "name": "Tylarr Gronnden",
+            "notObtainable": true,
             "spellid": 236285
           }
         ],
@@ -8093,6 +8870,38 @@
       {
         "id": "b8db5310",
         "items": [
+          {
+            "ID": 4592,
+            "creatureId": 224915,
+            "icon": "ability_hunter_pet_gorilla",
+            "itemId": 224406,
+            "name": "Misty",
+            "spellid": 452706
+          },
+          {
+            "ID": 4593,
+            "creatureId": 224916,
+            "icon": "inv_jewelcrafting_azureboar",
+            "itemId": 224410,
+            "name": "Craggles",
+            "spellid": 452711
+          },
+          {
+            "ID": 4689,
+            "creatureId": 232585,
+            "icon": "inv_elemental_mote_mana",
+            "itemId": 231365,
+            "name": "Karazhan Syphoner",
+            "spellid": 468338
+          },
+          {
+            "ID": 4686,
+            "creatureId": 232579,
+            "icon": "ability_mount_whitedirewolf",
+            "itemId": 231356,
+            "name": "Specter",
+            "spellid": 468317
+          },
           {
             "ID": 2017,
             "creatureId": 118060,
@@ -8157,7 +8966,7 @@
           {
             "ID": 1666,
             "creatureId": 93814,
-            "icon": "inv_misc_fish_03",
+            "icon": "inv_misc_fish_57",
             "itemId": 126925,
             "name": "Blorp",
             "spellid": 185601
@@ -8284,6 +9093,44 @@
           }
         ],
         "name": "Darkmoon Faire"
+      },
+      {
+        "items": [
+          {
+            "ID": 1890,
+            "creatureId": 106283,
+            "icon": "inv_corgi2",
+            "itemId": 136925,
+            "name": "Corgi Pup",
+            "spellid": 210701
+          },
+          {
+            "ID": 3100,
+            "creatureId": 179125,
+            "icon": "2892271",
+            "itemId": 186556,
+            "name": "Timeless Mechanical Dragonling",
+            "spellid": 353442
+          },
+          {
+            "ID": 4265,
+            "creatureId": 209259,
+            "icon": "inv_dragonwhelpcataclysm_blue",
+            "itemId": 208543,
+            "name": "Lil' Frostwing",
+            "notObtainable": true,
+            "spellid": 419773
+          },
+          {
+            "ID": 4679,
+            "creatureId": 231841,
+            "icon": "inv_doomguardpet_orange",
+            "itemId": 230011,
+            "name": "Lil'Kaz",
+            "spellid": 466576
+          }
+        ],
+        "name": "Anniversary"
       }
     ]
   },
@@ -8347,6 +9194,14 @@
             "itemId": 163858,
             "name": "Slippy",
             "spellid": 280619
+          },
+          {
+            "ID": 4482,
+            "creatureId": 222359,
+            "icon": "inv_maldraxxusslime_yellow",
+            "itemId": 223487,
+            "name": "Writhing Transmutagen",
+            "spellid": 446059
           }
         ],
         "name": "Alchemy"
@@ -8974,8 +9829,7 @@
             "creatureId": 204271,
             "icon": "inv_nzothfish_green",
             "itemId": 205032,
-            "name": "Bestial Lurker",
-            "notObtainable": true,
+            "name": "Abyssal Lurker",
             "spellid": 408048
           },
           {
@@ -8985,6 +9839,7 @@
             "itemId": 205035,
             "name": "Snapjaw Lurker",
             "notObtainable": true,
+            "notReleased": true,
             "spellid": 408062
           },
           {
@@ -8994,6 +9849,7 @@
             "itemId": 205037,
             "name": "Void Lurker",
             "notObtainable": true,
+            "notReleased": true,
             "spellid": 408063
           }
         ],
@@ -9905,6 +10761,305 @@
     ]
   },
   {
+    "name": "Past Limited Time",
+    "subcats": [
+      {
+        "id": "231e8d27",
+        "items": [
+          {
+            "ID": 3243,
+            "creatureId": 183686,
+            "icon": "creatureportrait_robot_doberman",
+            "itemId": 190175,
+            "name": "Pippin",
+            "spellid": 366841
+          },
+          {
+            "ID": 3244,
+            "creatureId": 185324,
+            "icon": "inv_mummypet",
+            "itemId": 190176,
+            "name": "Drazka'zet the Wrathful",
+            "spellid": 366842
+          },
+          {
+            "ID": 3250,
+            "creatureId": 183708,
+            "icon": "inv_pet_egbert",
+            "itemId": 190603,
+            "name": "Egbob",
+            "spellid": 367732
+          },
+          {
+            "ID": 3251,
+            "creatureId": 185604,
+            "icon": "inv_bee_red",
+            "itemId": 190604,
+            "name": "Buzzworth",
+            "spellid": 367748
+          },
+          {
+            "ID": 4253,
+            "creatureId": 208436,
+            "icon": "inv_pet_celestialfoxwyvern",
+            "itemId": 208045,
+            "name": "Slyvy",
+            "spellid": 417464
+          },
+          {
+            "ID": 3252,
+            "creatureId": 185606,
+            "icon": "inv_ogrepet",
+            "itemId": 190607,
+            "name": "Garrlok",
+            "spellid": 367768
+          },
+          {
+            "ID": 4311,
+            "creatureId": 213111,
+            "icon": "inv_helm_cloth_holiday_christmas_a_03",
+            "itemId": 210870,
+            "name": "Mitzy",
+            "spellid": 427289
+          },
+          {
+            "ID": 3255,
+            "creatureId": 185756,
+            "icon": "inv_pet_babymoose_white",
+            "itemId": 190925,
+            "name": "Buttercup",
+            "spellid": 368314
+          },
+          {
+            "ID": 3297,
+            "creatureId": 189123,
+            "icon": "inv_salamanderwaterbaby_orange",
+            "itemId": 193429,
+            "name": "Time-Lost Salamanther",
+            "spellid": 375235
+          },
+          {
+            "ID": 4402,
+            "creatureId": 214286,
+            "icon": "inv_mouserock_teal",
+            "itemId": 211432,
+            "name": "Teele",
+            "spellid": 429423
+          },
+          {
+            "ID": 4407,
+            "creatureId": 216345,
+            "icon": "inv_ladybugpet_red",
+            "itemId": 212700,
+            "name": "Nelle",
+            "spellid": 432844
+          },
+          {
+            "ID": 4408,
+            "creatureId": 216379,
+            "icon": "inv_ladybugpet_pink",
+            "itemId": 212722,
+            "name": "Buggsy",
+            "spellid": 432888
+          },
+          {
+            "ID": 4286,
+            "creatureId": 211942,
+            "icon": "inv_duckbabyexplorer",
+            "itemId": 210409,
+            "name": "Aura",
+            "spellid": 425472
+          },
+          {
+            "ID": 4436,
+            "creatureId": 219134,
+            "icon": "inv_needledollpet_green",
+            "itemId": 217043,
+            "name": "Pokee",
+            "spellid": 438775
+          },
+          {
+            "ID": 4548,
+            "creatureId": 223316,
+            "icon": "inv_ogrepet",
+            "itemId": 223145,
+            "name": "Marrlok",
+            "spellid": 448355
+          },
+          {
+            "ID": 3582,
+            "creatureId": 205795,
+            "icon": "inv_magicalfishpet",
+            "itemId": 206174,
+            "name": "Blub",
+            "spellid": 412389
+          },
+          {
+            "ID": 4565,
+            "creatureId": 223600,
+            "icon": "inv_babynaga2_teal",
+            "itemId": 223339,
+            "name": "Trishi",
+            "spellid": 449046
+          },
+          {
+            "ID": 4566,
+            "creatureId": 223645,
+            "icon": "inv_murlocsurrender",
+            "itemId": 223474,
+            "name": "Worgli the Apprehensive",
+            "spellid": 449173
+          },
+          {
+            "ID": 4602,
+            "creatureId": 227414,
+            "icon": "inv_treasurecrabpet_yellow",
+            "itemId": 226104,
+            "name": "Claudius",
+            "spellid": 457689
+          },
+          {
+            "ID": 3542,
+            "creatureId": 204340,
+            "icon": "inv_sporebatrock_stoneblack",
+            "itemId": 205148,
+            "name": "Soot-Stained Shalewing",
+            "spellid": 408252
+          },
+          {
+            "ID": 3242,
+            "creatureId": 185322,
+            "icon": "inv_brontosaurusmount",
+            "itemId": 190173,
+            "name": "Lil' Maka'jin",
+            "notObtainable": true,
+            "notReleased": true,
+            "spellid": 366833
+          },
+          {
+            "ID": 4410,
+            "creatureId": 216455,
+            "icon": "inv_ladybugpet_yellow",
+            "itemId": 212791,
+            "name": "Beetriz",
+            "notObtainable": true,
+            "notReleased": true,
+            "spellid": 433098
+          },
+          {
+            "ID": 4569,
+            "creatureId": 223695,
+            "icon": "inv_pitlordpet_green",
+            "itemId": 223499,
+            "name": "Lil' Manny",
+            "notObtainable": true,
+            "notReleased": true,
+            "spellid": 449286
+          }
+        ],
+        "name": "Trading Post Originals"
+      },
+      {
+        "items": [
+          {
+            "ID": 249,
+            "creatureId": 36979,
+            "icon": "achievement_boss_kelthuzad_01",
+            "itemId": 49693,
+            "name": "Lil' K.T.",
+            "notObtainable": true,
+            "spellid": 69677
+          },
+          {
+            "ID": 248,
+            "creatureId": 36911,
+            "icon": "inv_misc_pet_03",
+            "itemId": 49665,
+            "name": "Pandaren Monk",
+            "notObtainable": true,
+            "spellid": 69541
+          },
+          {
+            "ID": 179,
+            "creatureId": 27217,
+            "icon": "inv_jewelry_amulet_03",
+            "itemId": 37297,
+            "name": "Spirit of Competition",
+            "notObtainable": true,
+            "spellid": 48406
+          }
+        ],
+        "name": "Trading Post Re-Releases"
+      },
+      {
+        "items": [
+          {
+            "ID": 4435,
+            "creatureId": 218977,
+            "icon": "inv_misc_fish_58",
+            "name": "Happy",
+            "notObtainable": true,
+            "spellid": 438543
+          },
+          {
+            "ID": 4426,
+            "creatureId": 218646,
+            "icon": "inv_hermitcrab_truesilver",
+            "name": "Bubbles",
+            "notObtainable": true,
+            "spellid": 437600
+          },
+          {
+            "ID": 4425,
+            "creatureId": 218647,
+            "icon": "inv_treasurecrabpet_red",
+            "name": "Glamrok",
+            "notObtainable": true,
+            "spellid": 437601
+          }
+        ],
+        "name": "Plunderstorm"
+      },
+      {
+        "items": [
+          {
+            "ID": 4579,
+            "creatureId": 223785,
+            "icon": "inv_yakpet",
+            "itemId": 221817,
+            "name": "Muskpaw Calf",
+            "notObtainable": true,
+            "spellid": 449550
+          },
+          {
+            "ID": 4580,
+            "creatureId": 223810,
+            "icon": "inv_celestialpandarenserpentpet_gold",
+            "itemId": 221818,
+            "name": "Astral Emperor's Serpentling",
+            "notObtainable": true,
+            "spellid": 449626
+          }
+        ],
+        "name": "Remix: Pandaria"
+      },
+      {
+        "items": [
+          {
+            "ID": 4615,
+            "creatureId": 229846,
+            "icon": "inv_ogrepet",
+            "itemId": 228758,
+            "name": "Parrlok",
+            "notObtainable": true,
+            "spellid": 463079
+          }
+        ],
+        "name": "Discord Quest"
+      }
+    ]
+  },
+  {
     "name": "Promotional",
     "subcats": [
       {
@@ -9929,6 +11084,7 @@
             "icon": "inv_misc_pet_02",
             "itemId": 49662,
             "name": "Gryphon Hatchling",
+            "notObtainable": true,
             "spellid": 69535
           },
           {
@@ -9937,23 +11093,8 @@
             "icon": "inv_misc_pet_04",
             "itemId": 49663,
             "name": "Wind Rider Cub",
+            "notObtainable": true,
             "spellid": 69536
-          },
-          {
-            "ID": 249,
-            "creatureId": 36979,
-            "icon": "achievement_boss_kelthuzad_01",
-            "itemId": 49693,
-            "name": "Lil' K.T.",
-            "spellid": 69677
-          },
-          {
-            "ID": 248,
-            "creatureId": 36911,
-            "icon": "inv_misc_pet_03",
-            "itemId": 49665,
-            "name": "Pandaren Monk",
-            "spellid": 69541
           },
           {
             "ID": 256,
@@ -9977,6 +11118,7 @@
             "icon": "inv_misc_petmoonkinta",
             "itemId": 68619,
             "name": "Moonkin Hatchling",
+            "notObtainable": true,
             "side": "H",
             "spellid": 95909
           },
@@ -9986,6 +11128,7 @@
             "icon": "inv_misc_petmoonkinne",
             "itemId": 68618,
             "name": "Moonkin Hatchling",
+            "notObtainable": true,
             "side": "A",
             "spellid": 95786
           },
@@ -9995,6 +11138,7 @@
             "icon": "inv_egg_02",
             "itemId": 70099,
             "name": "Cenarion Hatchling",
+            "notObtainable": true,
             "spellid": 99578
           },
           {
@@ -10059,6 +11203,7 @@
             "icon": "inv_pet_felkitten",
             "itemId": 141893,
             "name": "Mischief",
+            "notObtainable": true,
             "spellid": 225761
           },
           {
@@ -10083,6 +11228,7 @@
             "icon": "1998635",
             "itemId": 160588,
             "name": "Cap'n Crackers",
+            "notObtainable": true,
             "spellid": 272772
           },
           {
@@ -10098,6 +11244,7 @@
             "creatureId": 151788,
             "icon": "2735061",
             "name": "Dottie",
+            "notObtainable": true,
             "spellid": 294231
           },
           {
@@ -10129,6 +11276,7 @@
             "icon": "inv_dogpetgolden",
             "itemId": 190601,
             "name": "Sunny",
+            "notObtainable": true,
             "spellid": 333570
           },
           {
@@ -10137,6 +11285,7 @@
             "icon": "inv_pitlordpet_red",
             "itemId": 208850,
             "name": "Lil' Maggz",
+            "notObtainable": true,
             "spellid": 421516
           },
           {
@@ -10146,6 +11295,23 @@
             "itemId": 190608,
             "name": "Crushhoof",
             "spellid": 367778
+          },
+          {
+            "ID": 4421,
+            "creatureId": 217530,
+            "icon": "inv_lunarrabbitpet",
+            "itemId": 213556,
+            "name": "Hoplet",
+            "notObtainable": true,
+            "spellid": 434792
+          },
+          {
+            "ID": 4568,
+            "creatureId": 223691,
+            "icon": "inv_snowowlpet_white",
+            "name": "Charismatic Courier",
+            "notObtainable": true,
+            "notReleased": true
           }
         ],
         "name": "Blizzard Store"
@@ -10159,7 +11325,17 @@
             "icon": "inv_harvestgolempet",
             "itemId": 190583,
             "name": "Ichabod",
+            "notObtainable": true,
             "spellid": 367696
+          },
+          {
+            "ID": 3254,
+            "creatureId": 185621,
+            "icon": "inv_jewelcrafting_jadeowl",
+            "itemId": 190609,
+            "name": "Watcher of the Huntress",
+            "notObtainable": true,
+            "spellid": 367800
           }
         ],
         "name": "Support-A-Streamer"
@@ -10324,7 +11500,7 @@
           {
             "ID": 3579,
             "creatureId": 205467,
-            "icon": "4755147",
+            "icon": "inv_murkyysera",
             "name": "Ysergle",
             "spellid": 411448
           }
@@ -10344,79 +11520,6 @@
           }
         ],
         "name": "WWI"
-      },
-      {
-        "items": [
-          {
-            "ID": 202,
-            "creatureId": 32841,
-            "icon": "inv_pet_babyblizzardbear",
-            "itemId": 44819,
-            "name": "Baby Blizzard Bear",
-            "notObtainable": true,
-            "spellid": 61855
-          },
-          {
-            "ID": 243,
-            "creatureId": 36607,
-            "icon": "inv_misc_head_dragon_black",
-            "itemId": 49362,
-            "name": "Onyxian Whelpling",
-            "notObtainable": true,
-            "spellid": 69002
-          },
-          {
-            "ID": 1451,
-            "creatureId": 84915,
-            "icon": "inv_moltencorgi",
-            "itemId": 115301,
-            "name": "Molten Corgi",
-            "notObtainable": true,
-            "spellid": 169695
-          },
-          {
-            "ID": 1544,
-            "creatureId": 87669,
-            "icon": "spell_fire_ragnaros_supernova",
-            "itemId": 118574,
-            "name": "Hatespark the Tiny",
-            "notObtainable": true,
-            "spellid": 170268
-          },
-          {
-            "ID": 1890,
-            "creatureId": 106283,
-            "icon": "inv_corgi2",
-            "itemId": 136925,
-            "name": "Corgi Pup",
-            "spellid": 210701
-          },
-          {
-            "ID": 2621,
-            "creatureId": 151779,
-            "icon": "2615850",
-            "itemId": 172016,
-            "name": "Lil' Nefarian",
-            "spellid": 294206
-          },
-          {
-            "ID": 3100,
-            "creatureId": 179125,
-            "icon": "2892271",
-            "itemId": 186556,
-            "name": "Timeless Mechanical Dragonling",
-            "spellid": 353442
-          },
-          {
-            "ID": 4265,
-            "creatureId": 209259,
-            "icon": "inv_dragonwhelpcataclysm_blue",
-            "itemId": 208543,
-            "name": "Lil' Frostwing",
-            "spellid": 419773
-          }
-        ],
-        "name": "Anniversary"
       },
       {
         "items": [
@@ -10534,10 +11637,34 @@
           {
             "ID": 4266,
             "creatureId": 209681,
-            "icon": "5333904",
+            "icon": "inv_gryphonstormpet_blue",
             "itemId": 208751,
             "name": "Squally",
             "spellid": 420759
+          },
+          {
+            "ID": 4589,
+            "creatureId": 224717,
+            "icon": "inv_gryphonstormpet_purple",
+            "itemId": 224261,
+            "name": "Gale",
+            "spellid": 452221
+          },
+          {
+            "ID": 4590,
+            "creatureId": 224716,
+            "icon": "inv_gryphonstormpet_red",
+            "itemId": 224259,
+            "name": "Flash",
+            "spellid": 452222
+          },
+          {
+            "ID": 4591,
+            "creatureId": 224718,
+            "icon": "inv_gryphonstormpet_yellow",
+            "itemId": 224260,
+            "name": "Thundo",
+            "spellid": 452223
           }
         ],
         "name": "Collector's Edition"
@@ -10600,10 +11727,24 @@
             "icon": "inv_demongoat_crimson",
             "itemId": 206018,
             "name": "Baa'lial",
+            "notObtainable": true,
             "spellid": 411791
           }
         ],
         "name": "Diablo IV"
+      },
+      {
+        "items": [
+          {
+            "ID": 4406,
+            "creatureId": 216179,
+            "icon": "inv_mousehearthstone",
+            "itemId": 212606,
+            "name": "Sarge",
+            "spellid": 432486
+          }
+        ],
+        "name": "Hearthstone"
       },
       {
         "items": [
@@ -10613,6 +11754,7 @@
             "icon": "inv_pet_babywinston",
             "itemId": 134047,
             "name": "Baby Winston",
+            "notObtainable": true,
             "spellid": 204148
           }
         ],
@@ -10636,7 +11778,7 @@
           {
             "ID": 4316,
             "creatureId": 213407,
-            "icon": "5210737",
+            "icon": "inv_dragonwhelpwrathionclassic",
             "itemId": 210964,
             "name": "Lil' Wrathion",
             "spellid": 427682
@@ -10823,14 +11965,6 @@
             "spellid": 102317
           },
           {
-            "ID": 665,
-            "creatureId": 54745,
-            "icon": "inv_scarab_clay",
-            "itemId": 72153,
-            "name": "Sand Scarab",
-            "spellid": 102353
-          },
-          {
             "ID": 348,
             "creatureId": 59020,
             "icon": "spell_shadow_evileye",
@@ -10847,97 +11981,23 @@
             "spellid": 136484
           }
         ],
-        "name": "Trading Card Game"
+        "name": "Trading Card Game / Auction House"
       },
       {
-        "id": "231e8d27",
         "items": [
           {
-            "ID": 3242,
-            "creatureId": 185322,
-            "icon": "inv_brontosaurusmount",
-            "itemId": 190173,
-            "name": "Lil' Maka'jin",
-            "spellid": 366833
-          },
-          {
-            "ID": 3243,
-            "creatureId": 183686,
-            "icon": "creatureportrait_robot_doberman",
-            "itemId": 190175,
-            "name": "Pippin",
-            "spellid": 366841
-          },
-          {
-            "ID": 3244,
-            "creatureId": 185324,
-            "icon": "inv_mummypet",
-            "itemId": 190176,
-            "name": "Drazka'zet the Wrathful",
-            "spellid": 366842
-          },
-          {
-            "ID": 3250,
-            "creatureId": 183708,
-            "icon": "inv_pet_egbert",
-            "itemId": 190603,
-            "name": "Egbob",
-            "spellid": 367732
-          },
-          {
-            "ID": 3251,
-            "creatureId": 185604,
-            "icon": "inv_bee_red",
-            "itemId": 190604,
-            "name": "Buzzworth",
-            "spellid": 367748
-          },
-          {
-            "ID": 4253,
-            "creatureId": 208436,
-            "icon": "inv_pet_celestialfoxwyvern",
-            "itemId": 208045,
-            "name": "Slyvy",
-            "spellid": 417464
-          },
-          {
-            "ID": 3252,
-            "creatureId": 185606,
-            "icon": "inv_ogrepet",
-            "itemId": 190607,
-            "name": "Garrlok",
-            "spellid": 367768
-          },
-          {
-            "ID": 3254,
-            "creatureId": 185621,
-            "icon": "inv_jewelcrafting_jadeowl",
-            "itemId": 190609,
-            "name": "Watcher of the Huntress",
-            "spellid": 367800
-          },
-          {
-            "ID": 3255,
-            "creatureId": 185756,
-            "icon": "inv_pet_babymoose_white",
-            "itemId": 190925,
-            "name": "Buttercup",
-            "spellid": 368314
+            "ID": 4437,
+            "creatureId": 218060,
+            "icon": "inv_treasurecrabpet_purple",
+            "name": "Fathom",
+            "notObtainable": true,
+            "spellid": 439994
           }
         ],
-        "name": "Trading Post"
+        "name": "Twitch Drops"
       },
       {
         "items": [
-          {
-            "ID": 179,
-            "creatureId": 27217,
-            "icon": "inv_jewelry_amulet_03",
-            "itemId": 37297,
-            "name": "Spirit of Competition",
-            "notObtainable": true,
-            "spellid": 48406
-          },
           {
             "ID": 192,
             "creatureId": 29726,
@@ -11064,15 +12124,6 @@
             "spellid": 100576
           },
           {
-            "ID": 802,
-            "creatureId": 65313,
-            "icon": "inv_pet_babycloudserpent",
-            "itemId": 85513,
-            "name": "Thundering Serpent Hatchling",
-            "notObtainable": true,
-            "spellid": 127813
-          },
-          {
             "ID": 1449,
             "creatureId": 84521,
             "icon": "inv_ravager2pet_black",
@@ -11082,6 +12133,34 @@
           }
         ],
         "name": "Guild Vendor"
+      },
+      {
+        "items": [
+          {
+            "ID": 802,
+            "creatureId": 65313,
+            "icon": "inv_pet_babycloudserpent",
+            "itemId": 85513,
+            "name": "Thundering Serpent Hatchling",
+            "spellid": 127813
+          }
+        ],
+        "name": "BMAH"
+      },
+      {
+        "items": [
+          {
+            "ID": 4669,
+            "creatureId": 231713,
+            "icon": "inv_needledollpet_blue",
+            "itemId": 229993,
+            "name": "Bluedoo",
+            "notObtainable": true,
+            "notReleased": true,
+            "spellid": 466179
+          }
+        ],
+        "name": "Unknown"
       }
     ]
   }

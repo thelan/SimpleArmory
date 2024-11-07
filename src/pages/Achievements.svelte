@@ -43,13 +43,16 @@
 
         switch(supercat) {
             case 'character':
-                prettyCatName = 'Character';
+                prettyCatName = 'Characters';
                 break;
             case 'quests':
                 prettyCatName = 'Quests';
                 break;
             case 'exploration':
                 prettyCatName = 'Exploration';
+                break;
+            case 'delves':
+                prettyCatName = 'Delves';
                 break;
             case 'pvp':
                 prettyCatName = 'Player vs. Player';
@@ -74,6 +77,9 @@
                 break;
             case 'expansions':
                 prettyCatName = 'Expansion Features';
+                break;
+            case 'remix':
+                prettyCatName = 'Remix: Pandaria';
                 break;
             case 'legacy':
                 prettyCatName = 'Legacy';

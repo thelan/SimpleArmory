@@ -30,28 +30,28 @@
             "icon": "inv_misc_map09",
             "itemId": 150744,
             "name": "Scouting Map: Walking Kalimdor with the Earthmother",
-            "obtainSide": "H"
+            "side": "H"
           },
           {
             "ID": 647,
             "icon": "inv_misc_map09",
             "itemId": 150743,
             "name": "Scouting Map: Surviving Kalimdor",
-            "obtainSide": "A"
+            "side": "A"
           },
           {
             "ID": 657,
             "icon": "inv_misc_map09",
             "itemId": 150745,
             "name": "Scouting Map: The Eastern Kingdoms Campaign",
-            "obtainSide": "H"
+            "side": "H"
           },
           {
             "ID": 651,
             "icon": "inv_misc_map09",
             "itemId": 150746,
             "name": "Scouting Map: Modern Provisioning of the Eastern Kingdoms",
-            "obtainSide": "A"
+            "side": "A"
           },
           {
             "ID": 1158,
@@ -112,9 +112,251 @@
             "icon": "achievement_general_hordeslayer",
             "itemId": 204170,
             "name": "Clan Banner"
+          },
+          {
+            "ID": 1465,
+            "icon": "inv_jewelcrafting_argusgemcut_purple_miscicons",
+            "itemId": 210455,
+            "name": "Draenic Hologem"
           }
         ],
         "name": "Racial"
+      }
+    ]
+  },
+  {
+    "name": "Limited Time",
+    "subcats": [
+      {
+        "items": [
+        ],
+        "name": "Trading Post"
+      },
+      {
+        "items": [
+          {
+            "ID": 1514,
+            "icon": "inv_11xp_generic_blizzardphoenixring01",
+            "itemId": 228789,
+            "name": "Coldflame Ring"
+          },
+          {
+            "ID": 1516,
+            "icon": "inv_11xp_wow20year_balloonchest01",
+            "itemId": 229828,
+            "name": "20th Anniversary Balloon Chest"
+          }
+        ],
+        "name": "20th Anniversary Event"
+      }
+    ]
+  },
+  {
+    "name": "The War Within",
+    "subcats": [
+      {
+        "items": [
+          {
+            "ID": 1495,
+            "icon": "inv_ability_poison_buff",
+            "itemId": 225547,
+            "name": "Toxic Victory"
+          },
+          {
+            "ID": 1483,
+            "icon": "spell_azerite_essence09",
+            "itemId": 224251,
+            "name": "Memory Chord"
+          },
+          {
+            "ID": 1500,
+            "icon": "inv_axe_2h_kobold_pickaxe_a_01",
+            "itemId": 225969,
+            "name": "Forged Flag of Victory"
+          }
+        ],
+        "name": "Achievement"
+      },
+      {
+        "items": [
+          {
+            "ID": 1496,
+            "icon": "inv_helm_armor_kobyssangler_d_01",
+            "itemId": 225641,
+            "name": "Illusive Kobyss Lure"
+          },
+          {
+            "ID": 1486,
+            "icon": "inv_torch_lit",
+            "itemId": 224552,
+            "name": "Cave Spelunker's Torch"
+          },
+          {
+            "ID": 1487,
+            "icon": "inv_wand_16",
+            "itemId": 224554,
+            "name": "Silver Linin' Scepter"
+          },
+          {
+            "ID": 1489,
+            "icon": "inv_jewelry_amulet_04",
+            "itemId": 224585,
+            "name": "Hanna's Locket"
+          },
+          {
+            "ID": 1491,
+            "icon": "inv_cape_special_treasure_c_01",
+            "itemId": 224783,
+            "name": "Sovereign's Finery Chest"
+          },
+          {
+            "ID": 1497,
+            "icon": "inv_toy_booklibrary",
+            "itemId": 225659,
+            "name": "Arathi Book Collection"
+          },
+          {
+            "ID": 1493,
+            "icon": "inv_tailoring_modifiedcraftingreagent_indigo",
+            "itemId": 225347,
+            "name": "Web-Vandal's Spinning Wheel"
+          }
+        ],
+        "name": "Treasure"
+      },
+      {
+        "items": [
+          {
+            "ID": 1480,
+            "icon": "inv_helm_armor_luckyhat_c_01_brown",
+            "itemId": 223312,
+            "name": "Trusty Hat"
+          },
+          {
+            "ID": 1449,
+            "icon": "inv_misc_coin_14",
+            "itemId": 211931,
+            "name": "Abyss Caller Horn"
+          },
+          {
+            "ID": 1498,
+            "icon": "inv_misc_herb_tornfoolscap",
+            "itemId": 225910,
+            "name": "Pileus Delight"
+          },
+          {
+            "ID": 1508,
+            "icon": "inv_misc_trinket6oih_lanternb1",
+            "itemId": 228413,
+            "name": "Lampyridae Lure"
+          },
+          {
+            "ID": 1501,
+            "icon": "archaeology_5_0_anatomicaldummy",
+            "itemId": 225556,
+            "name": "Ancient Construct"
+          }
+        ],
+        "name": "Delves"
+      },
+      {
+        "items": [
+          {
+            "ID": 1509,
+            "icon": "creatureportrait_altarofearth_01",
+            "itemId": 228706,
+            "name": "Rockslidomancer's Stone"
+          },
+          {
+            "ID": 1510,
+            "icon": "ability_mount_goatmountwhite",
+            "itemId": 228698,
+            "name": "Candleflexer's Dumbbell"
+          },
+          {
+            "ID": 1511,
+            "icon": "inv_ability_holyfire_beam",
+            "itemId": 228707,
+            "name": "Trial of Burning Light"
+          },
+          {
+            "ID": 1512,
+            "icon": "inv_alchemy_70_potion2",
+            "itemId": 228705,
+            "name": "Arachnoserum"
+          },
+          {
+            "ID": 1503,
+            "icon": "inv_10_inscription2_book2_color1",
+            "itemId": 226519,
+            "name": "General's Expertise"
+          },
+          {
+            "ID": 1530,
+            "icon": "ui_majorfactions_web",
+            "itemId": 228940,
+            "name": "Notorious Thread's Hearthstone"
+          }
+        ],
+        "name": "Renown"
+      },
+      {
+        "items": [
+          {
+            "ID": 1504,
+            "icon": "achievement_boss_triumvirate_shadowguardetherealmelee",
+            "itemId": 226810,
+            "name": "Infiltrator's Shroud"
+          }
+        ],
+        "name": "Secret"
+      },
+      {
+        "items": [
+          {
+            "ID": 1502,
+            "icon": "inv_ability_web_beam",
+            "itemId": 226191,
+            "name": "Web Pet Leash"
+          },
+          {
+            "ID": 1490,
+            "icon": "inv_helm_misc_candle_a_01",
+            "itemId": 224643,
+            "name": "Pet-Sized Candle"
+          },
+          {
+            "ID": 1513,
+            "icon": "inv_spiderpet_yellow",
+            "itemId": 228914,
+            "name": "Arachnophile Spectacles"
+          }
+        ],
+        "name": "Vendor"
+      },
+      {
+        "items": [
+          {
+            "ID": 1517,
+            "icon": "inv_11xp_mdi_banner01",
+            "itemId": 232301,
+            "name": "Tempered Banner of the Algari",
+            "notObtainable": true
+          }
+        ],
+        "name": "Mythic Dungeon Invitational"
+      },
+      {
+        "items": [
+          {
+            "ID": 1518,
+            "icon": "inv_11xp_awc_banner01",
+            "itemId": 232305,
+            "name": "Forged Champion's Prestigious Banner",
+            "notObtainable": true
+          }
+        ],
+        "name": "Arena World Championship"
       }
     ]
   },
@@ -255,6 +497,12 @@
             "icon": "spell_lifegivingseed",
             "itemId": 210411,
             "name": "Fast Growing Seed"
+          },
+          {
+            "ID": 1484,
+            "icon": "ability_hunter_pet_bear",
+            "itemId": 204405,
+            "name": "Stuffed Bear"
           }
         ],
         "name": "Treasure"
@@ -355,7 +603,7 @@
             "ID": 1261,
             "icon": "inv_misc_tabard_explorersguild",
             "itemId": 198728,
-            "name": "Explorer's League Banner"
+            "name": "Explorers' League Banner"
           },
           {
             "ID": 1260,
@@ -680,8 +928,7 @@
             "ID": 1302,
             "icon": "inv_10_dungeonjewelry_dragon_trinket_5_black",
             "itemId": 204220,
-            "name": "Hraxian's Unbreakable Will",
-            "notObtainable": true
+            "name": "Hraxian's Unbreakable Will"
           },
           {
             "ID": 1310,
@@ -699,7 +946,7 @@
             "ID": 1312,
             "icon": "inv_10_dungeonjewelry_titan_necklace_1_color3",
             "itemId": 204686,
-            "name": "Titan's Containment Device"
+            "name": "Titan Containment Device"
           },
           {
             "ID": 1347,
@@ -724,6 +971,12 @@
             "icon": "inv_misc_herb_jadetealeaf",
             "itemId": 210864,
             "name": "Improvised Leafbed"
+          },
+          {
+            "ID": 1479,
+            "icon": "inv_misc_bag_herbpouch",
+            "itemId": 223146,
+            "name": "Satchel of Stormborn Seeds"
           }
         ],
         "name": "Quest"
@@ -747,12 +1000,6 @@
             "icon": "ability_evoker_deepbreath",
             "itemId": 206043,
             "name": "Fyrakk's Frenzy"
-          },
-          {
-            "ID": 1331,
-            "icon": "inv_misc_nightmarebanner",
-            "itemId": 206008,
-            "name": "Nightmare Banner"
           }
         ],
         "name": "Events"
@@ -823,7 +1070,15 @@
             "ID": 1440,
             "icon": "inv_mdi_awc_bannerreward_icons_blue",
             "itemId": 211424,
-            "name": "Dreaming Banner of the Aspects"
+            "name": "Dreaming Banner of the Aspects",
+            "notObtainable": true
+          },
+          {
+            "ID": 1472,
+            "icon": "inv_mdi_awc_bannerreward_icons_red",
+            "itemId": 218128,
+            "name": "Draconic Banner of the Aspects",
+            "notObtainable": true
           }
         ],
         "name": "Mythic Dungeon Invitational"
@@ -835,8 +1090,13 @@
             "ID": 1329,
             "icon": "inv_pet_naaru_purple",
             "itemId": 206195,
-            "name": "Path of the Naaru",
-            "notObtainable": true
+            "name": "Path of the Naaru"
+          },
+          {
+            "ID": 1446,
+            "icon": "inv_misc_flower_02",
+            "itemId": 211788,
+            "name": "Tess's Peacebloom"
           }
         ],
         "name": "World"
@@ -1495,13 +1755,6 @@
             "itemId": 187958,
             "name": "Shrouded Banner of the Opportune",
             "notObtainable": true
-          },
-          {
-            "ID": 1164,
-            "icon": "inv_misc_mdi_banner04",
-            "itemId": 187959,
-            "name": "PH - Banner of the Opportune",
-            "notObtainable": true
           }
         ],
         "name": "Mythic Dungeon Invitational"
@@ -1527,12 +1780,6 @@
             "icon": "inv_misc_archaeology_vrykuldrinkinghorn",
             "itemId": 166247,
             "name": "Citizens Brigade Whistle"
-          },
-          {
-            "ID": 944,
-            "icon": "inv_elemental_primal_water",
-            "itemId": 168016,
-            "name": "Hyper-Compressed Ocean"
           }
         ],
         "name": "Achievement"
@@ -1908,28 +2155,28 @@
             "icon": "achievement_bg_3flagcap_nodeaths",
             "itemId": 169276,
             "name": "Horde War Banner",
-            "obtainSide": "H"
+            "side": "H"
           },
           {
             "ID": 959,
             "icon": "achievement_general_hordeslayer",
             "itemId": 169277,
             "name": "Horde War Standard",
-            "obtainSide": "H"
+            "side": "H"
           },
           {
             "ID": 956,
             "icon": "achievement_bg_3flagcap_nodeaths",
             "itemId": 169275,
             "name": "Alliance War Banner",
-            "obtainSide": "A"
+            "side": "A"
           },
           {
             "ID": 958,
             "icon": "inv_bannerpvp_02",
             "itemId": 169278,
             "name": "Alliance War Standard",
-            "obtainSide": "A"
+            "side": "A"
           }
         ],
         "name": "Nazjatar PvP"
@@ -2008,14 +2255,14 @@
             "icon": "inv_bannerpvp_02",
             "itemId": 163828,
             "name": "Toy Siege Tower",
-            "obtainSide": "A"
+            "side": "A"
           },
           {
             "ID": 821,
             "icon": "inv_bannerpvp_01",
             "itemId": 163829,
             "name": "Toy War Machine",
-            "obtainSide": "H"
+            "side": "H"
           }
         ],
         "name": "Warfront: Arathi"
@@ -2211,18 +2458,6 @@
           }
         ],
         "name": "Horrific Visions"
-      },
-      {
-        "id": "dd8ef1ca",
-        "items": [
-          {
-            "ID": 986,
-            "icon": "inv_knife_1h_grimbatolraid_d_03",
-            "itemId": 173951,
-            "name": "N'lyeth, Sliver of N'Zoth"
-          }
-        ],
-        "name": "World PvP"
       }
     ]
   },
@@ -2938,6 +3173,15 @@
             ]
           },
           {
+            "ID": 352,
+            "icon": "inv_cask_03",
+            "itemId": 120857,
+            "name": "Barrel of Bandanas",
+            "obtainClasses": [
+              4
+            ]
+          },
+          {
             "ID": 551,
             "icon": "inv_misc_horn_05",
             "itemId": 140160,
@@ -3030,7 +3274,7 @@
             "icon": "trade_archaeology_dignified-draenei-portrait",
             "itemId": 119144,
             "name": "Touch of the Naaru",
-            "obtainSide": "A"
+            "side": "A"
           },
           {
             "ID": 351,
@@ -3090,54 +3334,34 @@
             "icon": "spell_frost_frost",
             "itemId": 115468,
             "name": "Permanent Frost Essence",
-            "obtainSide": "H"
+            "side": "H"
           },
           {
             "ID": 542,
             "icon": "creatureportrait_bubble",
             "itemId": 115472,
             "name": "Permanent Time Bubble",
-            "obtainSide": "A"
+            "side": "A"
           },
           {
             "ID": 409,
             "icon": "inv_chest_cloth_draenei_c_01",
             "itemId": 128462,
             "name": "Karabor Councilor's Attire",
-            "obtainSide": "A"
+            "side": "A"
           },
           {
             "ID": 408,
             "icon": "inv_frostwolfpup",
             "itemId": 128471,
             "name": "Frostwolf Grunt's Battlegear",
-            "obtainSide": "H"
+            "side": "H"
           },
           {
             "ID": 366,
             "icon": "inv_jewelry_necklace_109",
             "itemId": 122283,
             "name": "Rukhmar's Sacred Memory"
-          },
-          {
-            "ID": 946,
-            "icon": "inv_misc_flute_01",
-            "itemId": 116396,
-            "name": "LeBlanc's Recorder",
-            "obtainSide": "A"
-          },
-          {
-            "ID": 947,
-            "icon": "inv_misc_flute_01",
-            "itemId": 115505,
-            "name": "LeBlanc's Recorder",
-            "obtainSide": "H"
-          },
-          {
-            "ID": 945,
-            "icon": "trade_archaeology_delicatemusicbox",
-            "itemId": 115501,
-            "name": "Kowalski's Music Box"
           }
         ],
         "name": "Reputation"
@@ -3240,14 +3464,14 @@
             "icon": "inv_banner_03",
             "itemId": 119217,
             "name": "Alliance Flag of Victory",
-            "obtainSide": "A"
+            "side": "A"
           },
           {
             "ID": 308,
             "icon": "inv_banner_03",
             "itemId": 119218,
             "name": "Horde Flag of Victory",
-            "obtainSide": "H"
+            "side": "H"
           },
           {
             "ID": 309,
@@ -3669,14 +3893,14 @@
             "icon": "achievement_reputation_kirintor_offensive",
             "itemId": 95567,
             "name": "Kirin Tor Beacon",
-            "obtainSide": "A"
+            "side": "A"
           },
           {
             "ID": 498,
             "icon": "achievement_faction_sunreaveronslaught",
             "itemId": 95568,
             "name": "Sunreaver Beacon",
-            "obtainSide": "H"
+            "side": "H"
           },
           {
             "ID": 248,
@@ -3749,14 +3973,14 @@
             "icon": "achievement_faction_sunreaveronslaught",
             "itemId": 95590,
             "name": "Glorious Standard of the Sunreaver Onslaught",
-            "obtainSide": "H"
+            "side": "H"
           },
           {
             "ID": 206,
             "icon": "achievement_reputation_kirintor_offensive",
             "itemId": 95589,
             "name": "Glorious Standard of the Kirin Tor Offensive",
-            "obtainSide": "A"
+            "side": "A"
           },
           {
             "ID": 154,
@@ -4000,19 +4224,6 @@
           }
         ],
         "name": "Treasure"
-      },
-      {
-        "id": "3c01691b",
-        "items": [
-          {
-            "ID": 359,
-            "icon": "inv_misc_orb_03",
-            "itemId": 89205,
-            "name": "Mini Mana Bomb",
-            "notObtainable": true
-          }
-        ],
-        "name": "Pre-launch Event"
       }
     ]
   },
@@ -4029,14 +4240,14 @@
             "icon": "inv_misc_tolbaradsearchlight",
             "itemId": 64997,
             "name": "Tol Barad Searchlight",
-            "obtainSide": "H"
+            "side": "H"
           },
           {
             "ID": 246,
             "icon": "inv_misc_tolbaradsearchlight",
             "itemId": 63141,
             "name": "Tol Barad Searchlight",
-            "obtainSide": "A"
+            "side": "A"
           },
           {
             "ID": 222,
@@ -4168,70 +4379,70 @@
             "icon": "inv_misc_tournaments_banner_human",
             "itemId": 45011,
             "name": "Stormwind Banner",
-            "obtainSide": "A"
+            "side": "A"
           },
           {
             "ID": 217,
             "icon": "inv_misc_tournaments_banner_dwarf",
             "itemId": 45018,
             "name": "Ironforge Banner",
-            "obtainSide": "A"
+            "side": "A"
           },
           {
             "ID": 208,
             "icon": "inv_misc_tournaments_banner_gnome",
             "itemId": 45019,
             "name": "Gnomeregan Banner",
-            "obtainSide": "A"
+            "side": "A"
           },
           {
             "ID": 200,
             "icon": "inv_misc_tournaments_banner_draenei",
             "itemId": 45020,
             "name": "Exodar Banner",
-            "obtainSide": "A"
+            "side": "A"
           },
           {
             "ID": 198,
             "icon": "inv_misc_tournaments_banner_nightelf",
             "itemId": 45021,
             "name": "Darnassus Banner",
-            "obtainSide": "A"
+            "side": "A"
           },
           {
             "ID": 249,
             "icon": "inv_misc_tournaments_banner_scourge",
             "itemId": 45016,
             "name": "Undercity Banner",
-            "obtainSide": "H"
+            "side": "H"
           },
           {
             "ID": 244,
             "icon": "inv_misc_tournaments_banner_tauren",
             "itemId": 45013,
             "name": "Thunder Bluff Banner",
-            "obtainSide": "H"
+            "side": "H"
           },
           {
             "ID": 237,
             "icon": "inv_misc_tournaments_banner_bloodelf",
             "itemId": 45017,
             "name": "Silvermoon City Banner",
-            "obtainSide": "H"
+            "side": "H"
           },
           {
             "ID": 234,
             "icon": "inv_misc_tournaments_banner_troll",
             "itemId": 45015,
             "name": "Sen'jin Banner",
-            "obtainSide": "H"
+            "side": "H"
           },
           {
             "ID": 228,
             "icon": "inv_misc_tournaments_banner_orc",
             "itemId": 45014,
             "name": "Orgrimmar Banner",
-            "obtainSide": "H"
+            "side": "H"
           },
           {
             "ID": 189,
@@ -4719,6 +4930,12 @@
             "icon": "inv_misc_idol_05",
             "itemId": 45984,
             "name": "Unusual Compass"
+          },
+          {
+            "ID": 944,
+            "icon": "inv_elemental_primal_water",
+            "itemId": 168016,
+            "name": "Hyper-Compressed Ocean"
           }
         ],
         "name": "Fishing"
@@ -4738,15 +4955,6 @@
       {
         "id": "79a66987",
         "items": [
-          {
-            "ID": 352,
-            "icon": "inv_cask_03",
-            "itemId": 120857,
-            "name": "Barrel of Bandanas",
-            "obtainClasses": [
-              4
-            ]
-          },
           {
             "ID": 199,
             "icon": "inv_misc_dice_01",
@@ -4887,6 +5095,18 @@
             "icon": "creatureportrait_fomorhand",
             "itemId": 205045,
             "name": "B.B.F. Fist"
+          },
+          {
+            "ID": 1457,
+            "icon": "inv_misc_gem_variety_02",
+            "itemId": 215147,
+            "name": "Beautification Iris"
+          },
+          {
+            "ID": 1458,
+            "icon": "achievement_bg_xkills_avgraveyard",
+            "itemId": 215145,
+            "name": "Remembrance Stone"
           }
         ],
         "name": "Jewelcrafting"
@@ -5217,6 +5437,36 @@
             "icon": "inv_helm_misc_starpartyhat",
             "itemId": 207092,
             "name": "Portable Party Platter"
+          },
+          {
+            "ID": 1477,
+            "icon": "inv_eng_crate",
+            "itemId": 219387,
+            "name": "Barrel of Fireworks"
+          },
+          {
+            "ID": 1478,
+            "icon": "inv_10_engineering_device_gadget3_color2",
+            "itemId": 221966,
+            "name": "Wormhole Generator: Khaz Algar"
+          },
+          {
+            "ID": 1485,
+            "icon": "ability_vehicle_siegeengineram",
+            "itemId": 221962,
+            "name": "Defective Escape Pod"
+          },
+          {
+            "ID": 1488,
+            "icon": "inv_misc_trinket6oih_lanterna1",
+            "itemId": 219403,
+            "name": "Stonebound Lantern"
+          },
+          {
+            "ID": 1494,
+            "icon": "inv_misc_-selfiecamera_02",
+            "itemId": 221964,
+            "name": "Filmless Camera"
           }
         ],
         "name": "Engineering"
@@ -5272,6 +5522,31 @@
     "name": "PVP",
     "subcats": [
       {
+        "items": [
+          {
+            "ID": 946,
+            "icon": "inv_misc_flute_01",
+            "itemId": 116396,
+            "name": "LeBlanc's Recorder",
+            "side": "A"
+          },
+          {
+            "ID": 947,
+            "icon": "inv_misc_flute_01",
+            "itemId": 115505,
+            "name": "LeBlanc's Recorder",
+            "side": "H"
+          },
+          {
+            "ID": 945,
+            "icon": "trade_archaeology_delicatemusicbox",
+            "itemId": 115501,
+            "name": "Kowalski's Music Box"
+          }
+        ],
+        "name": "Ashran"
+      },
+      {
         "id": "1d8ed9dc",
         "items": [
           {
@@ -5310,6 +5585,18 @@
       {
         "items": [
           {
+            "ID": 986,
+            "icon": "inv_knife_1h_grimbatolraid_d_03",
+            "itemId": 173951,
+            "name": "N'lyeth, Sliver of N'Zoth",
+            "notObtainable": true
+          }
+        ],
+        "name": "N'Zoth"
+      },
+      {
+        "items": [
+          {
             "ID": 1333,
             "icon": "inv_soloshufflepennantreward_icons_red",
             "itemId": 206343,
@@ -5318,18 +5605,53 @@
           },
           {
             "ID": 1330,
-            "icon": "inv_soloshufflepennantreward_icons_red",
+            "icon": "inv_soloshufflepennantreward_icons_blue",
             "itemId": 206267,
-            "name": "Obsidian Legend's Pennant"
+            "name": "Obsidian Legend's Pennant",
+            "notObtainable": true
           },
           {
             "ID": 1434,
-            "icon": "inv_soloshufflepennantreward_icons_red",
+            "icon": "inv_soloshufflepennantreward_icons_green",
             "itemId": 210497,
-            "name": "Verdant Legend's Pennant"
+            "name": "Verdant Legend's Pennant",
+            "notObtainable": true
+          },
+          {
+            "ID": 1448,
+            "icon": "inv_soloshufflepennantreward_icons_purple",
+            "itemId": 211869,
+            "name": "Draconic Legend's Pennant",
+            "notObtainable": true
+          },
+          {
+            "ID": 1499,
+            "icon": "inv_twwsoloshufflepennantreward_icons_red",
+            "itemId": 225933,
+            "name": "Forged Legend's Pennant",
+            "notObtainable": true
+          },
+          {
+            "ID": 1505,
+            "icon": "inv_twwsoloshufflepennantreward_icons_green",
+            "itemId": 227538,
+            "name": "Unbound Legend's Pennant",
+            "notObtainable": true
           }
         ],
         "name": "Solo Shuffle"
+      },
+      {
+        "items": [
+          {
+            "ID": 1506,
+            "icon": "inv_twwsoloshufflepennantreward_icons_teal",
+            "itemId": 227539,
+            "name": "Unbound Strategist's Pennant",
+            "notObtainable": true
+          }
+        ],
+        "name": "Battleground Blitz"
       }
     ]
   },
@@ -5506,6 +5828,12 @@
             "icon": "inv_misc_easterbasket",
             "itemId": 204675,
             "name": "A Drake's Big Basket of Eggs"
+          },
+          {
+            "ID": 1461,
+            "icon": "inv_10_specialreagentfoozles_coolegg_bronze",
+            "itemId": 216881,
+            "name": "Duck Disguiser"
           }
         ],
         "name": "Noblegarden"
@@ -5866,28 +6194,28 @@
             "icon": "inv_shield_1h_alliancetoy_a_01",
             "itemId": 151349,
             "name": "Toy Weapon Set",
-            "obtainSide": "A"
+            "side": "A"
           },
           {
             "ID": 662,
             "icon": "inv_shield_1h_hordetoy_a_01",
             "itemId": 151348,
             "name": "Toy Weapon Set",
-            "obtainSide": "H"
+            "side": "H"
           },
           {
             "ID": 643,
             "icon": "inv_misc_gobstationx",
             "itemId": 151344,
             "name": "Hearthstation",
-            "obtainSide": "H"
+            "side": "H"
           },
           {
             "ID": 644,
             "icon": "inv_misc_gnomefundo86",
             "itemId": 151343,
             "name": "Hearthstation",
-            "obtainSide": "A"
+            "side": "A"
           },
           {
             "ID": 195,
@@ -5906,14 +6234,14 @@
             "icon": "inv_helm_alliancetoy_a_01",
             "itemId": 162643,
             "name": "Toy Armor Set",
-            "obtainSide": "A"
+            "side": "A"
           },
           {
             "ID": 790,
             "icon": "inv_helm_hordetoy_a_01",
             "itemId": 162642,
             "name": "Toy Armor Set",
-            "obtainSide": "H"
+            "side": "H"
           },
           {
             "ID": 984,
@@ -5926,14 +6254,14 @@
             "icon": "inv_garrison_hordedestroyer",
             "itemId": 172222,
             "name": "Crashin' Thrashin' Juggernaught",
-            "obtainSide": "H"
+            "side": "H"
           },
           {
             "ID": 982,
             "icon": "inv_garrison_alliancedestroyer",
             "itemId": 172223,
             "name": "Crashin' Thrashin' Battleship",
-            "obtainSide": "A"
+            "side": "A"
           },
           {
             "ID": 1062,
@@ -5976,6 +6304,14 @@
             "icon": "inv_boots_cloth_15",
             "itemId": 210656,
             "name": "Winter Veil Socks"
+          },
+          {
+            "ID": 1473,
+            "icon": "inv_misc_gift_01",
+            "itemId": 218310,
+            "name": "Box of Puntables",
+            "notObtainable": true,
+            "notReleased": true
           }
         ],
         "name": "Winter Veil"
@@ -6208,6 +6544,17 @@
         "name": "Timewalking"
       },
       {
+        "items": [
+          {
+            "ID": 1466,
+            "icon": "inv_misc_craftingreagent_vial01",
+            "itemId": 212518,
+            "name": "Vial of Endless Draconic Scales"
+          }
+        ],
+        "name": "Dragonriding Cup"
+      },
+      {
         "id": "69fd463c",
         "items": [
           {
@@ -6235,6 +6582,12 @@
         "id": "abab0c56",
         "items": [
           {
+            "ID": 1482,
+            "icon": "inv_weapon_halberd_05",
+            "itemId": 224192,
+            "name": "Practice Ravager"
+          },
+          {
             "ID": 683,
             "icon": "inv_corgi2",
             "itemId": 158149,
@@ -6247,7 +6600,143 @@
             "name": "Doomwalker Trophy Stand"
           }
         ],
-        "name": "WoW's Anniversary"
+        "name": "Anniversary"
+      }
+    ]
+  },
+  {
+    "name": "Past Limited Time",
+    "subcats": [
+      {
+        "id": "c1d734dd",
+        "items": [
+          {
+            "ID": 1345,
+            "icon": "ability_racial_etherealconnection",
+            "itemId": 206268,
+            "name": "Ethereal Transmogrifier"
+          },
+          {
+            "ID": 1334,
+            "icon": "tradingpostcurrency",
+            "itemId": 206347,
+            "name": "Mannequin Charm"
+          },
+          {
+            "ID": 1452,
+            "icon": "inv_misc_1h_umbrella_b_01",
+            "itemId": 212500,
+            "name": "Delicate Silk Parasol"
+          },
+          {
+            "ID": 1455,
+            "icon": "inv_misc_1h_umbrella_b_01",
+            "itemId": 212525,
+            "name": "Delicate Ebony Parasol"
+          },
+          {
+            "ID": 1453,
+            "icon": "inv_misc_1h_umbrella_b_01",
+            "itemId": 212523,
+            "name": "Delicate Jade Parasol"
+          },
+          {
+            "ID": 1454,
+            "icon": "inv_misc_1h_umbrella_b_01",
+            "itemId": 212524,
+            "name": "Delicate Crimson Parasol"
+          },
+          {
+            "ID": 1471,
+            "icon": "inv_fishingchair",
+            "itemId": 218112,
+            "name": "Colorful Beach Chair"
+          },
+          {
+            "ID": 1475,
+            "icon": "inv_firearm_2h_waterblaster_c_01",
+            "itemId": 220692,
+            "name": "X-treme Water Blaster Display"
+          }
+        ],
+        "name": "Trading Post Originals"
+      },
+      {
+        "items": [
+          {
+            "ID": 214,
+            "icon": "inv_potion_27",
+            "itemId": 32542,
+            "name": "Imp in a Ball"
+          },
+          {
+            "ID": 202,
+            "icon": "ability_warrior_challange",
+            "itemId": 45063,
+            "name": "Foam Sword Rack"
+          }
+        ],
+        "name": "Trading Post Re-Releases"
+      },
+      {
+        "items": [
+          {
+            "ID": 1464,
+            "icon": "inv_helm_cloth_b_01pirate_black",
+            "itemId": 170197,
+            "name": "Swarthy Warning Sign",
+            "notObtainable": true
+          }
+        ],
+        "name": "Plunderstorm"
+      },
+      {
+        "id": "6edf78f8",
+        "items": [
+          {
+            "ID": 1467,
+            "icon": "monk_stance_redcrane",
+            "itemId": 217724,
+            "name": "Kindness of Chi-Ji",
+            "notObtainable": true
+          },
+          {
+            "ID": 1468,
+            "icon": "monk_stance_drunkenox",
+            "itemId": 217726,
+            "name": "Fortitude of Niuzao",
+            "notObtainable": true
+          },
+          {
+            "ID": 1469,
+            "icon": "monk_stance_whitetiger",
+            "itemId": 217723,
+            "name": "Fury of Xuen",
+            "notObtainable": true
+          },
+          {
+            "ID": 1470,
+            "icon": "monk_stance_wiseserpent",
+            "itemId": 217725,
+            "name": "Essence of Yu'lon",
+            "notObtainable": true
+          },
+          {
+            "ID": 1476,
+            "icon": "inv_misc_herb_talandrasrose",
+            "itemId": 220777,
+            "name": "Cherry Blossom Trail",
+            "notObtainable": true
+          },
+          {
+            "ID": 359,
+            "icon": "inv_misc_orb_03",
+            "itemId": 89205,
+            "name": "Mini Mana Bomb",
+            "notObtainable": true
+          }
+        ],
+        "name": "Remix: Pandaria"
       }
     ]
   },
@@ -6320,12 +6809,6 @@
             "name": "Instant Statue Pedestal"
           },
           {
-            "ID": 214,
-            "icon": "inv_potion_27",
-            "itemId": 32542,
-            "name": "Imp in a Ball"
-          },
-          {
             "ID": 12,
             "icon": "spell_fire_twilightfire",
             "itemId": 67097,
@@ -6348,12 +6831,6 @@
             "icon": "inv_misc_gem_goldendraenite_01",
             "itemId": 69227,
             "name": "Fool's Gold"
-          },
-          {
-            "ID": 202,
-            "icon": "ability_warrior_challange",
-            "itemId": 45063,
-            "name": "Foam Sword Rack"
           },
           {
             "ID": 5,
@@ -6419,7 +6896,7 @@
           },
           {
             "ID": 1430,
-            "icon": "5358887",
+            "icon": "item_blizzconbanner01",
             "itemId": 210042,
             "name": "Chilling Celebration Banner"
           }
@@ -6433,11 +6910,12 @@
             "ID": 281,
             "icon": "inv_misc_steel_hitching_post2",
             "itemId": 112324,
-            "name": "Nightmarish Hitching Post"
+            "name": "Nightmarish Hitching Post",
+            "notObtainable": true
           },
           {
             "ID": 926,
-            "icon": "2823166",
+            "icon": "inv_encrypted20",
             "itemId": 166779,
             "name": "Transmorpher Beacon"
           },
@@ -6445,13 +6923,23 @@
             "ID": 913,
             "icon": "2530046",
             "itemId": 166778,
-            "name": "Horde's Might Firework"
+            "name": "Horde's Might Firework",
+            "notObtainable": true,
+            "side": "H"
           },
           {
             "ID": 914,
             "icon": "2530045",
             "itemId": 166777,
-            "name": "Lion's Pride Firework"
+            "name": "Lion's Pride Firework",
+            "notObtainable": true,
+            "side": "A"
+          },
+          {
+            "ID": 1438,
+            "icon": "inv_pet_bluemurlocegg",
+            "itemId": 210467,
+            "name": "Magical Murkmorpher"
           }
         ],
         "name": "Blizzard Store"
@@ -6473,9 +6961,15 @@
           },
           {
             "ID": 1356,
-            "icon": "5344195",
+            "icon": "inv_sandbox_gryphon",
             "itemId": 208883,
             "name": "Sandbox Storm Gryphon"
+          },
+          {
+            "ID": 1351,
+            "icon": "inv_hearthstone_storm",
+            "itemId": 208704,
+            "name": "Deepdweller's Earthen Hearthstone"
           }
         ],
         "name": "Collector's Edition"
@@ -6487,58 +6981,25 @@
             "ID": 609,
             "icon": "diabloanniversary_tomeoftownportal",
             "itemId": 142542,
-            "name": "Tome of Town Portal"
+            "name": "Tome of Town Portal",
+            "notObtainable": true
           },
           {
             "ID": 605,
             "icon": "inv_axe_2h_undeadguitar_c_01",
             "itemId": 143543,
-            "name": "Twelve-String Guitar"
+            "name": "Twelve-String Guitar",
+            "notObtainable": true
+          },
+          {
+            "ID": 1331,
+            "icon": "inv_misc_nightmarebanner",
+            "itemId": 206008,
+            "name": "Nightmare Banner",
+            "notObtainable": true
           }
         ],
         "name": "Diablo 20th Anniversary"
-      },
-      {
-        "id": "c1d734dd",
-        "items": [
-          {
-            "ID": 1345,
-            "icon": "ability_racial_etherealconnection",
-            "itemId": 206268,
-            "name": "Ethereal Transmogrifier"
-          },
-          {
-            "ID": 1334,
-            "icon": "tradingpostcurrency",
-            "itemId": 206347,
-            "name": "Mannequin Charm"
-          },
-          {
-            "ID": 1452,
-            "icon": "inv_misc_1h_umbrella_b_01",
-            "itemId": 212500,
-            "name": "Delicate Silk Parasol"
-          },
-          {
-            "ID": 1453,
-            "icon": "inv_misc_1h_umbrella_b_01",
-            "itemId": 212523,
-            "name": "Delicate Jade Parasol"
-          },
-          {
-            "ID": 1454,
-            "icon": "inv_misc_1h_umbrella_b_01",
-            "itemId": 212524,
-            "name": "Delicate Crimson Parasol"
-          },
-          {
-            "ID": 1455,
-            "icon": "inv_misc_1h_umbrella_b_01",
-            "itemId": 212525,
-            "name": "Delicate Ebony Parasol"
-          }
-        ],
-        "name": "Trading Post"
       },
       {
         "id": "41659622",
@@ -6593,15 +7054,17 @@
         "items": [
           {
             "ID": 1450,
-            "icon": "item_hearthstone_card",
+            "icon": "inv_hearthstone_gameboard",
             "itemId": 211946,
-            "name": "Hearthstone Game Table"
+            "name": "Hearthstone Game Table",
+            "notObtainable": true
           },
           {
-            "ID": 1351,
-            "icon": "5333528",
-            "itemId": 208704,
-            "name": "Deepdweller's Earthen Hearthstone"
+            "ID": 1456,
+            "icon": "inv_hearthstone_gold",
+            "itemId": 212337,
+            "name": "Stone of the Hearth",
+            "notObtainable": true
           }
         ],
         "name": "Hearthstone"

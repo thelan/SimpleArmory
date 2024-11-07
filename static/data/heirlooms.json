@@ -1,5 +1,23 @@
 [
   {
+    "name": "The War Within",
+    "subcats": [
+      {
+        "id": "f1255c8c",
+        "items": [
+          {
+            "ID": 986,
+            "icon": "inv_10_dungeonjewelry_primalist_ring_2_earth",
+            "itemId": 219325,
+            "name": "Band of Radiant Echoes",
+            "notObtainable": true
+          }
+        ],
+        "name": "Pre-Patch Event"
+      }
+    ]
+  },
+  {
     "id": "e2a50a64",
     "name": "Dragonflight",
     "subcats": [

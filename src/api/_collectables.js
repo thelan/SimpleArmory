@@ -1,3 +1,5 @@
+import { getShowHiddenSetting } from "../util/utils"
+
 function getHigherQualityBattlePet(currentPet, newPet) {
     function getPetsQuality(type) {
         switch (type) {
@@ -17,15 +19,17 @@ function getHigherQualityBattlePet(currentPet, newPet) {
     return newPet
 }
 
-export async function parseCollectablesObject(categories, profile, collected_data, collectedProperty, collectedId, isBattlePets) {
+export async function parseCollectablesObject(categories, profile, collected_data, collectedProperty, collectedId, isPet) {
     var obj = { 'categories': [] };
     var collected = {};
     var totalCollected = 0;
     var totalPossible = 0;
 
+    var showHiddenItems = getShowHiddenSetting();
+
     // Build up lookup for items that character has
     collected_data[collectedProperty].forEach((item) => {
-        if (isBattlePets) {
+        if (isPet) {
             collected[item[collectedId].id] = getHigherQualityBattlePet(
                 collected[item[collectedId].id], item
             );
@@ -55,8 +59,8 @@ export async function parseCollectablesObject(categories, profile, collected_dat
                     var fullItem = collected[itm.ID];
                     itm.collected =  true;
 
-                    // only add quality info if on battlepets site
-                    if (isBattlePets && fullItem.quality) {
+                    // only add quality info if on battlepets or companions site
+                    if (isPet && fullItem.quality) {
                         itm.quality = fullItem.quality.type.toLowerCase();
                     }
 
@@ -137,7 +141,7 @@ export async function parseCollectablesObject(categories, profile, collected_dat
                 //    3) You meet the class restriction
                 //    4) You meet the race restriction
                 var hasthis = itm.collected;
-                var showthis = (hasthis || !item.notObtainable);
+                var showthis = (hasthis || !item.notObtainable || (showHiddenItems == "shown" && !item.notReleased));
 
                 if (item.side && item.side !== profile.factionMapped) {
                     showthis = false;
